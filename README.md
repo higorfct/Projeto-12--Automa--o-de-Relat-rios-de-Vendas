@@ -1,4 +1,4 @@
-# Projeto 11: Automação de Relatórios de Vendas
+# Projeto 12: Automação de Relatórios de Vendas
 
 📊 Projeto: Automação do Relatório Diário de Vendas
 
@@ -24,9 +24,31 @@ R$ 660 x 12 = R$ 7.290
 Com a automação criada em Python, todo o processo é executado em menos de 10 segundos, sem intervenção humana.
 ________________________________________
 ✅ Resultados Diretos da Automação
-•	Economia anual estimada: R$ 7.000+
-•	Relatórios mais confiáveis e padronizados
-•	Disponibilidade imediata de informações para tomada de decisão
-•	Escalável para múltiplas lojas e regiões
+-	Economia anual estimada: R$ 7.000+
+-	Relatórios mais confiáveis e padronizados
+- Disponibilidade imediata de informações para tomada de decisão
+-	Escalável para múltiplas lojas e regiões
+________________________________________
 
+🔗 Link da Aplicação no Streamlit
 
+Você pode acessar a aplicação online clicando no link abaixo:
+
+👉 https://projeto-12--automa--o-de-relat-rios-de-vendas-dkddqubd45ncvs5x.streamlit.app/
+
+________________________________________
+
+🛠️ Ferramentas Utilizadas
+- Python 3.10+ – Linguagem principal para automação e análise de dados.
+
+- Pandas – Manipulação e análise de dados tabulares.
+
+- Matplotlib – Visualização gráfica dos dados de vendas.
+
+- Streamlit – Criação da aplicação web interativa para exibição dos relatórios.
+
+- OpenPyXL – Leitura de arquivos Excel (.xlsx) dentro do Streamlit.
+
+- VS Code – Editor de código utilizado no desenvolvimento do projeto.
+
+- Streamlit Cloud – Plataforma usada para o deploy da aplicação de portfólio.
