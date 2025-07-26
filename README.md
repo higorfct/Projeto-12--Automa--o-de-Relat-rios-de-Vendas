@@ -1,8 +1,9 @@
 # Projeto 11: Automação de Relatórios de Vendas
 
 📊 Projeto: Automação do Relatório Diário de Vendas
+
 🧠 Contexto de Negócio
-A empresa fictícia Comercial São Jorge, do setor de varejo de confecções, realiza diariamente a coleta manual de dados de vendas registrados em planilhas Excel pelas lojas. Um colaborador do setor administrativo leva, em média, 1 hora por dia para:
+A empresa fictícia Comercial Pereira, do setor de varejo de confecções, realiza diariamente a coleta manual de dados de vendas registrados em planilhas Excel pelas lojas. Um colaborador do setor administrativo leva, em média, 1 hora por dia para:
 -	Consolidar os dados;
 -	Criar gráficos de vendas;
 -	Escrever um resumo por vendedor, Estado e produto vendido;
