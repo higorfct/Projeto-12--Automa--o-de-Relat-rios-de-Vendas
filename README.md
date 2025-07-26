@@ -14,11 +14,11 @@ Esse processo é repetitivo, custoso, sujeito a erros e consome tempo de trabalh
 ________________________________________
 💸 Impacto Financeiro
 Supondo um custo médio de R$ 30/hora para o colaborador responsável:
-•	Custo diário do processo manual:
+- Custo diário do processo manual:
 1 hora ≈ R$ 30/dia
-•	Custo mensal (22 dias úteis):
+-	Custo mensal (22 dias úteis):
 R$ 30 x 22 = R$ 660
-•	Custo anual aproximado:
+-	Custo anual aproximado:
 R$ 660 x 12 = R$ 7.290
 
 Com a automação criada em Python, todo o processo é executado em menos de 10 segundos, sem intervenção humana.
