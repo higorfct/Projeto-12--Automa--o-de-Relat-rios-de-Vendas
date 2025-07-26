@@ -13,6 +13,7 @@ A empresa fictícia Comercial Pereira, do setor de varejo de confecções, reali
 Esse processo é repetitivo, custoso, sujeito a erros e consome tempo de trabalho qualificado.
 ________________________________________
 💸 Impacto Financeiro
+
 Supondo um custo médio de R$ 30/hora para o colaborador responsável:
 - Custo diário do processo manual:
 1 hora ≈ R$ 30/dia
