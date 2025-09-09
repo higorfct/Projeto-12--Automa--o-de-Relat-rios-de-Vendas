@@ -1,55 +1,60 @@
-# Projeto 12: Automação de Relatórios de Vendas
+# 📊 Project 12: Sales Report Automation  
 
-📊 Projeto: Automação do Relatório Diário de Vendas
+## 🧠 Business Context  
+The fictitious company **Comercial Pereira**, operating in the clothing retail sector, manually collects daily sales data recorded in Excel spreadsheets by its stores.  
+An administrative employee spends, on average, 1 hour per day to:  
+- Consolidate the data  
+- Create sales charts  
+- Write a summary by salesperson, state, and product sold  
+- Generate and format a PDF report  
+- Attach and send the email to regional decision-making managers  
 
-🧠 Contexto de Negócio
-A empresa fictícia Comercial Pereira, do setor de varejo de confecções, realiza diariamente a coleta manual de dados de vendas registrados em planilhas Excel pelas lojas. Um colaborador do setor administrativo leva, em média, 1 hora por dia para:
--	Consolidar os dados;
--	Criar gráficos de vendas;
--	Escrever um resumo por vendedor, Estado e produto vendido;
-- Gerar e formatar um relatório em PDF;
-- Anexar e enviar o e-mail para os gerentes regionais tomadores de decisão.
+This process is repetitive, costly, error-prone, and consumes valuable work time.  
 
-Esse processo é repetitivo, custoso, sujeito a erros e consome tempo de trabalho qualificado.
-________________________________________
-💸 Impacto Financeiro
+---
 
-Supondo um custo médio de R$ 30/hora para o colaborador responsável:
-- Custo diário do processo manual:
-1 hora ≈ R$ 30/dia
--	Custo mensal (22 dias úteis):
-R$ 30 x 22 = R$ 660
--	Custo anual aproximado:
-R$ 660 x 12 = R$ 7.290
+## 💸 Financial Impact  
 
-Com a automação criada em Python, todo o processo é executado em menos de 10 segundos, sem intervenção humana.
-________________________________________
-✅ Resultados Diretos da Automação
--	Economia anual estimada: R$ 7.000+
--	Relatórios mais confiáveis e padronizados
-- Disponibilidade imediata de informações para tomada de decisão
--	Escalável para múltiplas lojas e regiões
-________________________________________
+Assuming an average cost of **R$ 30/hour** for the responsible employee:  
+- **Daily cost of the manual process:** 1 hour ≈ R$ 30/day  
+- **Monthly cost (22 business days):** R$ 30 × 22 = R$ 660  
+- **Approximate annual cost:** R$ 660 × 12 = **R$ 7,290**  
 
-🔗 Link da Aplicação no Streamlit
+With the Python automation, the entire process is executed in **less than 10 seconds**, with no human intervention.  
 
-Você pode acessar a aplicação online clicando no link abaixo:
+---
 
-👉 https://projeto-12--automa--o-de-relat-rios-de-vendas-dkddqubd45ncvs5x.streamlit.app/
+## ✅ Direct Results of the Automation  
+- Estimated annual savings: **R$ 7,000+**  
+- More reliable and standardized reports  
+- Immediate availability of information for decision-making  
+- Scalable to multiple stores and regions  
 
-________________________________________
+---
 
-🛠️ Ferramentas Utilizadas
-- Python 3.10+ – Linguagem principal para automação e análise de dados.
+## 🔗 Streamlit Application  
 
-- Pandas – Manipulação e análise de dados tabulares.
+You can access the online application by clicking the link below:  
 
-- Matplotlib – Visualização gráfica dos dados de vendas.
+👉 [Access the App](https://projeto-12--automa--o-de-relat-rios-de-vendas-dkddqubd45ncvs5x.streamlit.app/)  
 
-- Streamlit – Criação da aplicação web interativa para exibição dos relatórios.
+---
 
-- OpenPyXL – Leitura de arquivos Excel (.xlsx) dentro do Streamlit.
+## 🛠️ Tools Used  
+- **Python 3.10+** – Main language for automation and data analysis  
+- **Pandas** – Tabular data manipulation and analysis  
+- **Matplotlib** – Graphical visualization of sales data  
+- **Streamlit** – Creation of the interactive web application for report display  
+- **OpenPyXL** – Reading Excel (.xlsx) files within Streamlit  
+- **FPDF** – PDF report generation and formatting  
+- **VS Code** – Code editor used in project development  
+- **Streamlit Cloud** – Platform used for deploying the portfolio application  
 
-- VS Code – Editor de código utilizado no desenvolvimento do projeto.
+---
 
-- Streamlit Cloud – Plataforma usada para o deploy da aplicação de portfólio.
+## 🚀 How to Run Locally  
+
+Clone the repository:  
+```bash
+git clone https://github.com/your-username/project-12-sales-report-automation.git
+cd project-12-sales-report-automation
